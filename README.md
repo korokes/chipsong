@@ -5,7 +5,7 @@
 
 ### The generated lyrics from ChipSong are provided in [this link](https://drive.google.com/drive/folders/1W5gktwFHv4tnF8lfP3Py3aQ8G7xjwfR-?usp=sharing) (google drive).
 
-### About Chinese 14-rhyme:
+### The introduction of Chinese 14-rhyme is in [this Baidu Baike link](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E6%96%B0%E9%9F%B5/622875?fr=aladdin)
 
 Chinese 14-rhyme groups include:
 
@@ -36,6 +36,3 @@ i, er, ü
 -i
 	
 u
-
-
-More information about Chinese 14-rhyme is in [this Baidu Baike link](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E6%96%B0%E9%9F%B5/622875?fr=aladdin)
